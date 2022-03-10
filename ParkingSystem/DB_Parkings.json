@@ -1,0 +1,32 @@
+{
+	"Parkings" : [
+		{
+			"John&Jason" : {
+				"Owners" : ["John Krasinsky", "Jason Berlin"],
+				"Owners_Contacts" : ["380660246724", "380661081045"],
+				"Parkings" : [
+					{
+						"Street" : "Vilshanka, 21",
+						"Lots" : 370
+					},
+					{
+						"Street" : "Yaroslavska, 11",
+						"Lots" : 250
+					}
+				],
+				"Avialable_Packages" : [1,2,3,4,5]
+			},
+			"RickLo" : {
+				"Owners" : ["Rick Logan"],
+				"Owners_Contacts" : ["380668100308"],
+				"Parkings" : [
+					{
+						"Street" : "Gremlin, 25",
+						"Lots" : 315
+					}
+				],
+				"AvialablePackages" : [3,4,5]
+			}
+		}
+	]
+}
